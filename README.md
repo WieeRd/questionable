@@ -13,7 +13,7 @@ You're wasting time. Just ask the question.
 Also, you should be looking for an answer, not a teacher.  
 People might show you the way but will not give you a ride.
 
-Learn more at <https://dontasktoask.com/>.
+Learn more at <https://dontasktoask.com/>
 
 ## 2. Describe the problem, Not your solution
 
@@ -26,11 +26,11 @@ Often Y is wrong approach in the first place and ends up
 wasting both you and the answerer's time with confusion.  
 Remember that your real goal is to solve X, not fixing Y.
 
-Learn more at <https://xyproblem.info/>.
+Learn more at <https://xyproblem.info/>
 
-## 3. "It doesn't work" just doesn't work
+## 3. Provide enough information
 
-Provide enough information. Your question should contain:
+"It doesn't work" just doesn't work. Your question should contain:
 
 ```text
  Problem          Code           Error
@@ -54,7 +54,7 @@ Most (if not all) problems can be described with:
 
 Your attempted solution for the problem.
 
-- Context: Relevant part of the code, to address the problem more quickly
+- Context: Relevant part of the code, to address the problem more quickly.
 - Full: In case you missed something in the context, provide a link to the full code.
 
 There is an ideal form of code sample, called *minimal reproducible example*.  
