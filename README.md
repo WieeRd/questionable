@@ -36,51 +36,25 @@ Learn more at <https://xyproblem.info/>
 
 ## 3. Provide enough information
 
-"It doesn't work" just doesn't work. Your question should contain:
+"It doesn't work" just doesn't work. Keep 3 things in mind:
 
-<!-- TODO: ascii diagram only works if using monospace font -->
+- **Clarify the goal** in terms of expected input, output, and their relation.
+
+- **Provide the code** to be inspected.  
+  Extract the relevant part of the code to eliminate unnecessary details.
+  Ideally, make the extracted part [executable by itself][MRE].
+
+- **Explain what's wrong** with current behavior.  
+  Get a sample output and compare it with the expectation.  
+  If something crashes, provide *full* error message (not just the error code).
+
 ```text
- Problem          Code           Error
-┌────────┐  ┌───────────────┐  ┌────────┐
-│ Input  │->│   Full Code   │  │ Error  │
-└────────┘  │  ┌─────────┐  │->│────────│
-┌────────┐  │  │ Context │  │  │ Wrong  │
-│ Output │<-│  └─────────┘  │  │ Output │
-└────────┘  └───────────────┘  └────────┘
-
-How can I make the program {output} when I {input}?
-I tried {context}, which is part of {link to full code}.
-But then it {error}, which is wrong because {reason}.
+I want my program to {expected output} upon {expected input}.
+I tried {code example} and it produces {error | sample output}.
+This was not expected because {reason}.
 ```
 
-### 3.1. The Problem
-
-Every programming problem can be described with 3 parts:  
-Expected **input**, **output**, and their **relation**.
-
-### 3.2. The Code
-
-- **Context**  
-Only the relevant part of the code, to address the problem more quickly.
-
-- **Full Code**  
-Optional link to the full code, as something might be missing in the context.
-
-- **Environment**  
-External factors like software versions or OS can also affect the result.
-
-An ideal form of code example is called *minimal reproducible example*.  
-It can function as a context and a full code at the same time!
-
-Learn more at <https://stackoverflow.com/help/minimal-reproducible-example>
-
-### 3.3. The Error
-
-- **Error Message**  
-Provide **full** error message, not just the error name/code.
-
-- **Wrong Output**  
-Provide an example and explain what's wrong. What exactly is "not working"?
+[MRE]: https://stackoverflow.com/help/minimal-reproducible-example
 
 ## 4. Ask for what to Ask (WIP)
 
