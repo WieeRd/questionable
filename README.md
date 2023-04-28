@@ -16,8 +16,8 @@ Learn more at https://github.com/WieeRd/questionable
 
 ## 1. Don't Ask For Help, Ask a Question
 
-> Can anyone help me with X?  
-> Is there anyone who uses X?
+> Can anyone help me with ABC?  
+> Is there anyone who uses ABC?
 
 You're wasting time. Just ask the question.  
 Moreover, you should be looking for an answer, not a teacher.  
@@ -25,7 +25,7 @@ People might show you the way but will not give you a ride.
 
 Learn more at <https://dontasktoask.com/>
 
-## 2. Describe the Problem, not Your Solution
+## 2. Describe the Goal, not the Step
 
 You have problem X, your solution Y failed.
 
@@ -45,7 +45,7 @@ Learn more at <https://xyproblem.info/>
 - **Clarify the goal** in terms of expected input, output, and their relation.
 
 - **Provide the code** to be inspected.  
-  Extract the relevant part of the code to eliminate unnecessary details.
+  Extract the relevant part of the code to eliminate unnecessary details.  
   Ideally, make the extracted part [executable by itself][MRE].
 
 - **Explain what's wrong** with current behavior.  
