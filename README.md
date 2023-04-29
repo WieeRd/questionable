@@ -7,9 +7,14 @@ That is a great question!
 ## TL;DR (WIP)
 
 Use this copypasta to answer every *questionable* questions.  
+Please DO NOT omit the source when quoting this guide.
 
 ```text
-TODO: copypasta for answering stupid questions
+How do I ask a good question?
+
+Problem: Lossless compression of natural language
+Description: Summarize everything within 80C 24L
+Status: Reducing down to 24L is harder than filling out 24 pages (send help)
 
 Learn more at https://github.com/WieeRd/questionable
 ```
@@ -40,7 +45,7 @@ Learn more at <https://xyproblem.info/>
 
 ## 3. Provide Enough Information
 
-"It doesn't work" just doesn't work. Keep 3 things in mind:
+"It doesn't work" just doesn't work. Keep these in mind:
 
 - **Clarify the goal** in terms of expected input, output, and their relation.
 
@@ -62,13 +67,27 @@ This was not expected because {reason}.
 
 ## 4. Ask For What to Ask (WIP)
 
-- It's ok to be lost
-- Try to fill out required information from #3
+- You might find yourself completely lost
 - Your first goal is to find out what you don't know
-- "Where should I look?"
+- Don't ask abstract, ambiguous questions
+- Ask for a way to gather more information
+- Ask for recommended learning materials
 
-## 5. Extras (WIP)
+## 5. What Should be the Last Tip? (WIP)
 
-- Try to READ
-- Don't be sorry for asking, be thankful for answers
+- RTFM
+- Informative title
+- Grammar & Formatting (stop using screenshots)
 - Manners Maketh Man
+- "Sorry for the noob question"
+- Extra Tips: Brief overview of everything above
+
+## Learn More
+
+Many details were omitted to keep this guide absolutely minimal.  
+Here are list of more comprehensive materials for a further reading.
+
+- <https://stackoverflow.com/help/how-to-ask>
+- <http://catb.org/~esr/faqs/smart-questions.html>
+- <https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/>
+- <https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/>
