@@ -65,13 +65,19 @@ This was not expected because {reason}.
 
 [MRE]: https://stackoverflow.com/help/minimal-reproducible-example
 
-## 4. Ask For What to Ask (WIP)
+## 4. Ask For What to Ask
 
-- You might find yourself completely lost
-- Your first goal is to find out what you don't know
-- Don't ask abstract, ambiguous questions
-- Ask for a way to gather more information
-- Ask for recommended learning materials
+You might be so clueless that you don't know where to even start.  
+But don't be tempted to ask a bad question because of it.  
+Instead, ask for a way to improve your question.
+
+- **Ask for a way to gather more information.**  
+  e.g. If a program freezes, ask for a way to check the logs.
+
+- **Ask for learning materials.**  
+  Don't dive straight to your abstract, ambiguous, and overambitious goal.  
+  When it is clear you lack knowledge about the topic, you should learn.  
+  e.g. How do I create my own Jarvis? → What are some good resources for ML?
 
 ## 5. What Should be the Last Tip? (WIP)
 
