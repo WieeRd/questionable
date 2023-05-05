@@ -1,13 +1,6 @@
-# Questionable
-
-> How do I ask a good question?
-
-That is a great question!
-
-## TL;DR (WIP)
+# TL;DR (WIP)
 
 Use this copypasta to answer every *questionable* questions.  
-Please DO NOT omit the source when quoting this guide.
 
 ```text
 How do I ask a good question?
@@ -18,6 +11,8 @@ Status: Reducing down to 24L is harder than filling out 24 pages (send help)
 
 Learn more at https://github.com/WieeRd/questionable
 ```
+
+Please always include the source when quoting this guide.
 
 ## 1. Don't Ask For Help, Ask a Question
 
@@ -30,7 +25,7 @@ People might show you the way but will not give you a ride.
 
 Learn more at <https://dontasktoask.com/>
 
-## 2. Describe the Goal, not the Step
+## 2. Describe the Goal, Not the Step
 
 You have problem X, your solution Y failed.
 
@@ -59,16 +54,16 @@ Learn more at <https://xyproblem.info/>
 
 ```text
 I want my program to {expected output} upon {expected input}.
-I tried {code example} and it produces {error | sample output}.
+I tried {code example} but it produces {error | sample output}.
 This was not expected because {reason}.
 ```
 
 [MRE]: https://stackoverflow.com/help/minimal-reproducible-example
 
-## 4. Ask For What to Ask
+## 4. Ask for What to Ask
 
 You might be so clueless that you don't know where to even start.  
-But don't be tempted to ask a bad question because of it.  
+But don't be tempted to ask a bad question that lacks information.  
 Instead, ask for a way to improve your question.
 
 - **Ask for a way to gather more information.**  
@@ -79,19 +74,10 @@ Instead, ask for a way to improve your question.
   When it is clear you lack knowledge about the topic, you should learn.  
   e.g. How do I create my own Jarvis? → What are some good resources for ML?
 
-## 5. What Should be the Last Tip? (WIP)
-
-- RTFM
-- Informative title
-- Grammar & Formatting (stop using screenshots)
-- Manners Maketh Man
-- "Sorry for the noob question"
-- Extra Tips: Brief overview of everything above
-
 ## Learn More
 
 Many details were omitted to keep this guide absolutely minimal.  
-Here are list of more comprehensive materials for a further reading.
+Below are list of more comprehensive materials for a further reading.
 
 - <https://stackoverflow.com/help/how-to-ask>
 - <http://catb.org/~esr/faqs/smart-questions.html>
