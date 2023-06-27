@@ -1,18 +1,24 @@
-# TL;DR (WIP)
+# Questionable
+
+> How do I ask a good question?
+
+**That is a great question!**
+
+## TL;DR
 
 Use this copypasta to answer every *questionable* questions.  
-Please don't omit the source link when quoting this guide :)
+Make sure to include the source when quoting this guide :)
 
 ```markdown
 How do I ask a good question?
 
-## "Can anyone help with ABC?"
+## "Can anyone help me with ABC?"
 - Don't ask if you can ask, just ask.
 - Ask for an answer, not 'someone who can help'.
 
 ## You have problem X, you tried Y.
-- How do I make Y work? [X]
-- How do I solve X? I tried Y. [O]
+- How do I make Y work? (X)
+- How do I solve X? I tried Y. (O)
 
 ## "It doesn't work" just doesn't work.
 - What's the goal?
