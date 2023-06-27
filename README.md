@@ -37,27 +37,31 @@ Learn more at <https://github.com/WieeRd/questionable>
 > Is there anyone who uses ABC?
 
 You're wasting time. Just ask the question.  
-Moreover, you should be looking for an answer, not a teacher.  
-People might show you the way but will not give you a ride.
+This also implies that you're asking for "someone who can help";  
+expecting someone else to solve the problem for you.  
+Don't. Write a proper question and ask for an *answer*.
 
 Learn more at <https://dontasktoask.com/>
 
-## 2. Describe the Goal, Not the Step
+## 2. Describe the Goal, Not the Solution
 
 You have problem X, your solution Y failed.
 
-- "How do I make Y work?" (X)
-- "How do I solve X? I tried Y." (O)
+- How do I make Y work? (X)
+- How do I solve X? I tried Y. (O)
 
-Often Y is wrong approach in the first place and will end up  
-wasting both you and the answerer's time with confusion.  
+**What if Y was a wrong approach in the first place?**  
+It can end up wasting both you and the answerer's time with confusion.  
 Remember that the real goal is to solve X, not fixing Y.
 
 Learn more at <https://xyproblem.info/>
 
 ## 3. Provide Enough Information
 
-"It doesn't work" just doesn't work. Keep these in mind:
+> It doesn't work.
+
+That is *not* a question, that's a complaint.  
+What is "it"? What exactly is "not working"?
 
 - **Clarify the goal** in terms of expected input, output, and their relation.
 
@@ -67,7 +71,7 @@ Learn more at <https://xyproblem.info/>
 
 - **Explain what's wrong** with current behavior.  
   Get a sample output and compare it with the expectation.  
-  If something crashes, provide *full* error message (not just the error code).
+  Always provide *full* error message. Not just the error code.
 
 ```text
 I want my program to {expected output} upon {expected input}.
