@@ -1,18 +1,29 @@
 # TL;DR (WIP)
 
 Use this copypasta to answer every *questionable* questions.  
+Please don't omit the source link when quoting this guide :)
 
-```text
+```markdown
 How do I ask a good question?
 
-Problem: Lossless compression of natural language
-Description: Summarize everything within 80C 24L
-Status: Reducing down to 24L is harder than filling out 24 pages (send help)
+## "Can anyone help with ABC?"
+- Don't ask if you can ask, just ask.
+- Ask for an answer, not 'someone who can help'.
 
-Learn more at https://github.com/WieeRd/questionable
+## You have problem X, you tried Y.
+- How do I make Y work? [X]
+- How do I solve X? I tried Y. [O]
+
+## "It doesn't work" just doesn't work.
+- What's the goal?
+- What have you tried?
+- What's wrong with current behavior?
+
+## Read the damn error. Seriously.
+- 90% of the time it tells you exactly where and what is wrong.
+
+Learn more at <https://github.com/WieeRd/questionable>
 ```
-
-Please always include the source when quoting this guide.
 
 ## 1. Don't Ask For Help, Ask a Question
 
@@ -83,3 +94,7 @@ Below are list of more comprehensive materials for a further reading.
 - <http://catb.org/~esr/faqs/smart-questions.html>
 - <https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/>
 - <https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/>
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
