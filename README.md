@@ -25,7 +25,7 @@ How do I ask a good question?
 - What have you tried?
 - What's wrong with current behavior?
 
-## Read the damn error. Seriously.
+## Read the damn error message. Seriously.
 - 90% of the time it tells you exactly where and what is wrong.
 
 Learn more at <https://github.com/WieeRd/questionable>
@@ -83,9 +83,11 @@ This was not expected because {reason}.
 
 ## 4. Ask for What to Ask
 
-You might be so clueless that you don't know where to even start.  
-But don't be tempted to ask a bad question that lacks information.  
-Instead, ask for a way to improve your question.
+> Sorry for the noob question but...
+
+Yes, sometimes we find ourselves completely clueless.  
+No, this is not a valid excuse for asking a bad question.  
+Being clueless is a problem on its own, and it needs to be solved first.
 
 - **Ask for a way to gather more information.**  
   e.g. If a program freezes, ask for a way to check the logs.
@@ -94,6 +96,10 @@ Instead, ask for a way to improve your question.
   Don't dive straight to your abstract, ambiguous, and overambitious goal.  
   When it is clear you lack knowledge about the topic, you should learn.  
   e.g. How do I create my own Jarvis? → What are some good resources for ML?
+
+## 5. Before You Ask
+
+TODO
 
 ## Learn More
 
