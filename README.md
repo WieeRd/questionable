@@ -61,25 +61,30 @@ Learn more at <https://xyproblem.info/>
 > It doesn't work.
 
 That is *not* a question, that's a complaint.  
-What is "it"? What exactly is "not working"?
+What is "it"? How exactly is it "not working"?
 
-- **Clarify the goal** in terms of expected input, output, and their relation.
+### What's the Goal?
 
-- **Provide the code** to be inspected.  
-  Extract the relevant part of the code to eliminate unnecessary details.  
-  Ideally, make the extracted part [executable by itself][MRE].
+Describe the problem in terms of input, output, and their relation.
 
-- **Explain what's wrong** with current behavior.  
-  Get a sample output and compare it with the expectation.  
-  Always provide *full* error message. Not just the error code.
+### What Have You Tried?
+
+Describe your attempt in detail, with the used code.  
+Extract the relevant part to eliminate unnecessary details.  
+Ideally, make the extracted code [executable by itself][MRE].
+
+[MRE]: https://stackoverflow.com/help/minimal-reproducible-example
+
+### What's Wrong?
+
+Describe current behavior and compare it with the expectation.  
+Always provide *full* error message. Not just the error code.
 
 ```text
 I want my program to {expected output} upon {expected input}.
 I tried {code example} but it produces {error | sample output}.
 This was not expected because {reason}.
 ```
-
-[MRE]: https://stackoverflow.com/help/minimal-reproducible-example
 
 ## 4. Ask for What to Ask
 
