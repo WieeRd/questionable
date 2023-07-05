@@ -10,7 +10,7 @@ Use this copypasta to answer every *questionable* questions.
 Make sure to include the source when quoting this guide :)
 
 ```markdown
-How do I ask a good question?
+> How do I ask a good question?
 
 ## "Can anyone help me with ABC?"
 - Don't ask if you can ask, just ask.
@@ -31,7 +31,7 @@ How do I ask a good question?
 Learn more at <https://github.com/WieeRd/questionable>
 ```
 
-## 1. Don't Ask For Help, Ask a Question
+## 1. Don't Ask for Help, Ask a Question
 
 > Can anyone help me with ABC?  
 > Is there anyone who uses ABC?
