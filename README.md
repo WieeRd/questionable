@@ -82,29 +82,17 @@ Always provide *full* error message. Not just the error code.
 
 ```text
 I want my program to {expected output} upon {expected input}.
-I tried {code example} but it produces {error | sample output}.
-This was not expected because {reason}.
+I tried {code example} but it produces {error | output example}.
+This is not what I intended because {reason}.
 ```
 
-## 4. Ask for What to Ask
+## 4. Read the Damn Error Message
 
-> Sorry for the noob question but...
+> (screenshot) Why am I getting this error?
 
-Yes, sometimes we find ourselves completely clueless.  
-No, this is not a valid excuse for asking a bad question.  
-Being clueless is a problem on its own, and it needs to be solved first.
-
-- **Ask for a way to gather more information.**  
-  e.g. If a program freezes, ask for a way to check the logs.
-
-- **Ask for learning materials.**  
-  Don't dive straight to your abstract, ambiguous, and overambitious goal.  
-  When it is clear you lack knowledge about the topic, you should learn.  
-  e.g. How do I create my own Jarvis? → What are some good resources for ML?
-
-## 5. Before You Ask
-
-TODO
+Errors are not just scary wall of text to meant to frustrate us.  
+With the exact line number and brief description of the cause,  
+90% of the time they are more than enough to solve the problem.
 
 ## Learn More
 
