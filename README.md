@@ -60,7 +60,7 @@ Learn more at <https://xyproblem.info/>
 
 > It doesn't work.
 
-That is *not* a question, that's a complaint.  
+That is not a question, that's a complaint.  
 What is "it"? How exactly is it "not working"?
 
 ### What's the Goal?
@@ -92,12 +92,14 @@ This is not what I intended because {reason}.
 
 Errors are not just scary wall of text to meant to frustrate us.  
 With the exact line number and brief description of the cause,  
-90% of the time they are more than enough to solve the problem.
+90% of the time they are more than enough to solve the problem.  
+Before you ask, please READ the error message.
 
 ## Learn More
 
-Many details were omitted to keep this guide absolutely minimal.  
-Below are list of more comprehensive materials for a further reading.
+This guide is meant to be absolutely minimal for fast and easy read.  
+If you're looking for more detailed resources for a further reading,  
+Here are some of the most useful and well known resources.
 
 - <https://stackoverflow.com/help/how-to-ask>
 - <http://catb.org/~esr/faqs/smart-questions.html>
@@ -106,4 +108,5 @@ Below are list of more comprehensive materials for a further reading.
 
 ## Contributing
 
+Want to help out improving and translating this guide?  
 See [CONTRIBUTING.md](CONTRIBUTING.md)
