@@ -5,7 +5,7 @@
 **That is a great question!**
 
 [[English](https://github.com/WieeRd/questionable)]
-[[한국어](i18n/ko-KR.md)]
+[[한국어](i18n/ko.md)]
 
 ## TL;DR
 
