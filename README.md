@@ -4,6 +4,9 @@
 
 **That is a great question!**
 
+[[English](https://github.com/WieeRd/questionable)]
+[[한국어](i18n/ko-KR.md)]
+
 ## TL;DR
 
 Use this copypasta to answer every *questionable* questions.  
