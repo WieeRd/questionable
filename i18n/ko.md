@@ -5,7 +5,7 @@
 **훌륭한 질문입니다!**
 
 [[English](https://github.com/WieeRd/questionable)]
-[[한국어](i18n/ko.md)]
+[[한국어](/i18n/ko.md)]
 
 ## 간단 요약
 
@@ -112,4 +112,4 @@
 ## 기여하기
 
 이 가이드를 개선하고 번역하는데 도움을 주고 싶으신가요?  
-[CONTRIBUTING.md](CONTRIBUTING.md)를 보세요.
+[CONTRIBUTING.md](/CONTRIBUTING.md)를 보세요.

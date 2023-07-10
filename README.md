@@ -5,7 +5,7 @@
 **That is a great question!**
 
 [[English](https://github.com/WieeRd/questionable)]
-[[한국어](i18n/ko.md)]
+[[한국어](/i18n/ko.md)]
 
 ## TL;DR
 
@@ -112,4 +112,4 @@ Here are some of the most useful and well known resources.
 ## Contributing
 
 Want to help out improving and translating this guide?  
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [CONTRIBUTING.md](/CONTRIBUTING.md)
