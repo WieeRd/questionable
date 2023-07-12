@@ -93,7 +93,7 @@ This is not what I intended because {reason}.
 
 > (screenshot) Why am I getting this error?
 
-Errors are not just scary wall of text to meant to frustrate us.  
+Errors are not just scary wall of text meant to frustrate us.  
 With the exact line number and brief description of the cause,  
 90% of the time they are more than enough to solve the problem.  
 Before you ask, please READ the error message.
