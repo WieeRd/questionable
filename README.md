@@ -96,7 +96,7 @@ This is not what I intended because {reason}.
 Errors are not just scary wall of text meant to frustrate us.  
 With the exact line number and brief description of the cause,  
 90% of the time they are more than enough to solve the problem.  
-Before you ask, please READ the error message.
+Before you ask, please *read*, and not just *see*, the error message.
 
 ## Learn More
 
