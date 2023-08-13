@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-Use this copypasta to answer every *questionable* questions.  
+Use this copypasta to answer every *questionable* question.  
 Make sure to include the source when quoting this guide :)
 
 ```markdown
@@ -26,7 +26,7 @@ Make sure to include the source when quoting this guide :)
 ## "It doesn't work" just doesn't work.
 - What's the goal?
 - What have you tried?
-- What's wrong with current behavior?
+- What's wrong with the current behavior?
 
 ## Read the damn error message. Seriously.
 - 90% of the time it tells you exactly where and what is wrong.
@@ -80,8 +80,8 @@ Ideally, make the extracted code [executable by itself][MRE].
 
 ### What's Wrong?
 
-Describe current behavior and compare it with the expectation.  
-Always provide *full* error message. Not just the error code.
+Describe the current behavior and compare it with the expectation.  
+Always provide the *full* error message. Not just the error code.
 
 ```text
 I want my program to {expected output} upon {expected input}.
