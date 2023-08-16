@@ -106,6 +106,7 @@
 여기 가장 유용하고 잘 알려진 자료들 몇 가지가 있습니다.
 
 - <https://stackoverflow.com/help/how-to-ask>
+- <https://stackoverflow.com/help/minimal-reproducible-example>
 - <http://catb.org/~esr/faqs/smart-questions.html>
 - <https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/>
 - <https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/>

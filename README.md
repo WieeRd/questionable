@@ -106,6 +106,7 @@ If you're looking for more detailed resources for a further reading,
 Here are some of the most useful and well known resources.
 
 - <https://stackoverflow.com/help/how-to-ask>
+- <https://stackoverflow.com/help/minimal-reproducible-example>
 - <http://catb.org/~esr/faqs/smart-questions.html>
 - <https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/>
 - <https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/>
