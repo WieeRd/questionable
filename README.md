@@ -111,6 +111,24 @@ Here are some of the most useful and well known resources.
 - <https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/>
 - <https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/>
 
+## About
+
+Hi! I'm [@WieeRd](https://github.com/WieeRd), the author of this guide.  
+After roaming around various communities and help channels for few years,  
+I decided to write a guide by putting together most frequently seen mistakes.
+
+This guide is not meant to be comprehensive or detailed.  
+The resources listed above already do a great job of that.  
+Rather, it's meant to be used as:
+
+- A cheat-sheet to refer to before asking questions
+- A copypasta that can be quoted when someone asks a bad question
+
+Whether you are a curious beginner full of questions, or a veteran  
+who got tired of manually guiding beginners to improve their questions,  
+I hope this guide continues to help you on your journey.  
+Happy Hacking!
+
 ## Contributing
 
 Want to help out improving and translating this guide?  
