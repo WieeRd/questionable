@@ -99,6 +99,8 @@ With the exact line number and brief description of the cause,
 
 **Before you ask, please *read*, and not just *see*, the error message.**
 
+Tip: Read the top and bottom part of the error message first.
+
 ## Learn More
 
 This guide is meant to be absolutely minimal for fast and easy read.  
