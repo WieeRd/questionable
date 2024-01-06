@@ -69,7 +69,11 @@ What is "it"? How exactly is it "not working"?
 
 ### What's the Goal?
 
-Describe the problem in terms of input, output, and their relation.
+Describe the problem in terms of:
+
+- Expected **input**
+- Desired **output** / behavior
+- **Relationship** between the input & output
 
 ### What Have You Tried?
 
@@ -125,7 +129,7 @@ The resources listed above already do a great job of that.
 Rather, it's meant to be used as:
 
 - A cheat-sheet to refer to before asking questions
-- A copypasta that can be quoted when someone asks a "lacking" question
+- A copypasta that can be quoted when someone asks a "questionable" question
 
 Whether you are a curious beginner full of questions, or a veteran  
 who got tired of manually guiding beginners to improve their questions,  
